@@ -1,5 +1,5 @@
 # Site settings
-title: Blog for jjin
+title: bbblog
 description: "An Integrated Scientific Blogging Template"
 url: "https://projectpages.github.io"
 
@@ -10,7 +10,7 @@ url: "https://projectpages.github.io"
 baseurl: "/project-pages"
 header-img: img/home-bg.jpg
 headercolor: "#FFFFFF"
-logo: /project-pages/img/logos/Project-Pages-New-Logo-Inverted.png
+logo: messheatup.github.io/image.png
 
 # Tertiary Parameters
 github_username:  projectpages
